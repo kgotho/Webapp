@@ -3,7 +3,7 @@ import React from "react";
 const AppointmentBtn = () => {
   return (
     <div className="pt-2" style={{ width: "100%" }}>
-      <a href="tel:+919876543210" style={{ textDecoration: "none" }}>
+      <a href="tel:+919488706323" style={{ textDecoration: "none" }}>
         <button
           type="button"
           className="btn"
